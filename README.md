@@ -1,2 +1,2 @@
 # megabydime
-Fuck Mega.nz, GitHub is life!!!
+GitHub is life!!!
